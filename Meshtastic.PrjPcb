@@ -83,7 +83,7 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=YRSNECJJ
 
 [Document3]
 DocumentPath=LORA.SchDoc
@@ -134,7 +134,7 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=QHMABTKK
 
 [Document6]
 DocumentPath=Meshtastic.PcbLib
