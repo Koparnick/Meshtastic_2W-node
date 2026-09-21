@@ -36,9 +36,7 @@ ConstraintManagerFlow=0
 IsVirtualBomDocumentRemoved=0
 OutputPath=
 LogFolderPath=
-ManagedProjectGUID=264F98A6-3675-4757-80DB-23F1B1A14D10
-VaultGUID=FF506CDD-AB05-41B1-8868-C2B966F48E82
-ReleaseVaultName=EMEA - GAZİANTEP UNIVERSITY - ORET
+ManagedProjectGUID=
 IncludeDesignInRelease=0
 CrossRefSheetStyle=1
 CrossRefLocationStyle=1
@@ -154,7 +152,7 @@ GenerateClassCluster=0
 DocumentUniqueId=HCPMYWCF
 
 [Document7]
-DocumentPath=..\..\..\..\Celal\Desktop\Meshtastic_2W-node-main\Meshtastic\Meshtastic.BomDoc
+DocumentPath=Meshtastic.BomDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
